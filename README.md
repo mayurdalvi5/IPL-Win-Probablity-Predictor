@@ -1,9 +1,8 @@
 # IPL-Win-Probablity-Predictor
-Datasets: https://www.kaggle.com/ramjidoolla/ipl-data-set
 
-1> deliveries.csv : contains all data of evry delivery made in the game
-2> matches.csv : contains all data of every match that took place
-3> run the notebook file to get pipe.plk file which is used in app.py 
+
+## Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55491344/143382494-5876a794-ac8d-4689-b7a2-546652fdd8ef.gif)
 
 
 
