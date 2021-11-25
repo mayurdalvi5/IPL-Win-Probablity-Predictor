@@ -4,4 +4,6 @@ Datasets: https://www.kaggle.com/ramjidoolla/ipl-data-set
 1> deliveries.csv : contains all data of evry delivery made in the game
 2> matches.csv : contains all data of every match that took place
 3> run the notebook file to get pipe.plk file which is used in app.py 
-![5vggcz](https://user-images.githubusercontent.com/55491344/143380549-4a53049c-682d-4a22-8d52-678524abb613.gif)
+
+https://user-images.githubusercontent.com/55491344/143380618-0bfaedc2-0382-4b4c-b2f5-285128c506b6.mp4
+
