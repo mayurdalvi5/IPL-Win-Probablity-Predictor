@@ -1,4 +1,4 @@
-# IPL-Win-Probablity-Predictor
+# IPL Win Probablity Predictor
 
 
 ## Demo
